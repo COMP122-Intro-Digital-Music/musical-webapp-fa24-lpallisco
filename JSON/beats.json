@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "Claps",
+    "pitch": "C4",
+    "pattern": "100"
+  },
+  {
+    "name": "Shot",
+    "pitch": "D#4",
+    "pattern": "1000"
+  },
+  {
+    "name": "Reverse Cymbal",
+    "pitch": "E4",
+    "pattern": "10000"
+  }
+]
