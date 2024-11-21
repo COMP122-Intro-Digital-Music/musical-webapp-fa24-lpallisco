@@ -9,5 +9,11 @@
     "file": "samples/that_the_only_thing.mp3", 
     "bpm": "100", 
     "loop": "4m" 
+  }, 
+  { 
+    "name": "Stream", 
+    "file": "samples/stream1.mp3", 
+    "bpm": "120", 
+    "loop": "2m" 
   }
 ]
