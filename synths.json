@@ -3,7 +3,7 @@
     "name": "Default 2",
     "type": "Synth",
     "settings": {
-      "volume": "-2",
+      "volume": "-27",
       "detune": "3",
       "portamento": "0.1",
       "envelope": {
@@ -53,7 +53,7 @@
     }
   },
   {
-    "name": "Default 3",
+    "name": "Default 2",
     "type": "Synth",
     "settings": {
       "volume": "0",

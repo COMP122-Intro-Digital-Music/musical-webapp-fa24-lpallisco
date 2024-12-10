@@ -1,1 +1,31 @@
-[ ]
+[
+  {
+    "name": "Default Graph",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "C7"
+        ],
+        "C7": [
+          "C7"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n.",
+      "matrix": {
+        "4n": [
+          "4n",
+          "4n",
+          "4n"
+        ],
+        "4n.": [
+          "4n.",
+          "4n",
+          "4n"
+        ]
+      }
+    }
+  }
+]
